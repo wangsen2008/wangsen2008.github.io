@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-02T11:43:16.716Z</updated>
+  <updated>2019-07-03T06:36:09.072Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/07/02/hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/07/02/hexo-github搭建博客/</id>
     <published>2019-07-02T09:27:29.000Z</published>
-    <updated>2019-07-02T11:43:16.716Z</updated>
+    <updated>2019-07-03T06:36:09.072Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,15 @@
       
         
         
-          &lt;h1 id=&quot;参考文献&quot;&gt;&lt;a href=&quot;#参考文献&quot; class=&quot;headerlink&quot; title=&quot;参考文献&quot;&gt;&lt;/a&gt;参考文献&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/fengxiongZz/p/7707219.html&quot;
+          &lt;h2 id=&quot;第一步-下载Git和Node-js&quot;&gt;&lt;a href=&quot;#第一步-下载Git和Node-js&quot; class=&quot;headerlink&quot; title=&quot;第一步   下载Git和Node.js&quot;&gt;&lt;/a&gt;第一步   下载Git和Node.js&lt;/h2&gt;&lt;hr&gt;
+&lt;h2
         
       
     
     </summary>
     
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
     
   </entry>
   
